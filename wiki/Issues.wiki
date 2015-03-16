@@ -1,15 +1,10 @@
 #summary Issues page for 400plus
 
+||<font color="red">*WE ARE MOVING*: Google is closing down Google Code, and 400plus is moving to GitHub.</font>||
+
 = Issues = 
 
-Before opening a new issue, please check first that it has not been discussed before; this can save both you and us lots of time.
-
-  * [http://code.google.com/p/400plus/issues/list?can=1 All issues].
-  * [http://code.google.com/p/400plus/issues/list?can=2 Open issues].
-
-Finally, if you still think that your issue has not been discussed already, please create a new one.
-
-  * [http://code.google.com/p/400plus/issues/entry New issue].
+All issues have been migrated to GitHub, please go to the new [https://github.com/400plus/400plus/issues 400plus' issues] page.
 
 = Other Channels =
 
