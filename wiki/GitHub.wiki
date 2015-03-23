@@ -1,0 +1,11 @@
+#summary GitHub migration page for 400plus
+
+||<font color="red">*WE ARE MOVING*: Google is closing down Google Code, and 400plus is moving to GitHub.</font>||
+
+= Issues = 
+
+All issues have been migrated to GitHub, please go to the new [https://github.com/400plus/400plus/issues 400plus' issues] page.
+
+= Source = 
+
+All sources have been migrated to GitHub, please go to the new [https://github.com/400plus/400plus 400plus' source] page.
