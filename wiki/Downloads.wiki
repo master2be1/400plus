@@ -1,23 +1,18 @@
 #summary Download page for 400plus
 
+||<font color="red">*WE ARE MOVING*: Google is closing down Google Code, and 400plus is moving to GitHub.</font>||
 
 ||*ATTENTION*: _Please, read "[AWordOfWarning A Word of Warning]" at our Wiki before doing downloading anything from here; thanks._||
 
-= All Downloads =
-
-Installation files made available to the general user
+= Installation =
 
   * *Hack-activation Firmware:* You will need this file to prepare your camera; please see the [FirmwareHackInstallation installation instructions] for more information.
     * [https://googledrive.com/host/0B66DLxueQUdxVFJ3LXdpRDJtNnc Hack-activation Firmware].
 
-  * *Official Releases:* Ready to use packages with our latest official releases.
-    * [https://googledrive.com/host/0B66DLxueQUdxVnlqXzA5TU9wclU Official releases].
-  
-  * *Source Code:* Targeted to people interested in development, these packages contain the source code used to build each official release.
-      * [https://googledrive.com/host/0B66DLxueQUdxRDVsYTQtR2VSNFU Source Code].
+= Releases =
 
-  * *Upcoming Releases:* Get a taste of the next upcoming release! Remember these are not official releases, and are known to contain bugs; see also the [UserGuidePreview updated user guide].
-    * [https://googledrive.com/host/0B66DLxueQUdxVmJGMVVYQnZUd2M Beta Releases].
-
+  * *Latest release:* Ready to use packages with our latest official releases.
+  * *Pre-release:* Get a taste of the next upcoming release! Remember these are not official releases, and are known to contain bugs.
   * *Archived Releases:* Both sources and binaries for deprecated releases.
-    * [https://googledrive.com/host/0B66DLxueQUdxMG9lWG1HckZSZDg Archived Releases].
+  * *Source Code:* All releases contain the source code used to build each of them.
+    * [https://github.com/400plus/400plus/releases Releases].
